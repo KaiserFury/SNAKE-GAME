@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Great 👍 — Let’s make your repository look **professional and recruiter-friendly** with a **GitHub-style README** including **badges, banner, demo section, and better formatting**.
 
 You can **copy-paste this directly into `README.md`**.
@@ -163,3 +164,7 @@ If you like this project, please **give it a star ⭐ on GitHub**.
 # 👨‍💻 Author
 
 **Abhishek Ranjan**
+=======
+# SNAKE-GAME
+A classic Snake Game built using Python and Turtle graphics with score tracking and high-score persistence.
+>>>>>>> f0fc6354e39738c0652777dde03065890c28fd46
